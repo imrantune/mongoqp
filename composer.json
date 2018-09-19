@@ -1,5 +1,5 @@
 {
-    "name": "jmikola/mongoqp",
+    "name": "imrantune/mongoqp",
     "type": "silex-application",
     "description": "MongoQP is a frontend for MongoDB's query profiler collection.",
     "keywords": ["mongodb", "database", "profiling"],
