@@ -3,14 +3,14 @@
     "type": "silex-application",
     "description": "MongoQP is a frontend for MongoDB's query profiler collection.",
     "keywords": ["mongodb", "database", "profiling"],
-    "homepage": "https://github.com/jmikola/mongoqp",
+    "homepage": "https://github.com/imrantune/mongoqp",
     "license": "MIT",
     "authors": [
         { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
     ],
     "require": {
         "php": ">=5.4.0",
-        "mongodb/mongodb": "^1.1",
+        "mongodb/mongodb": "^1.5",
         "silex/silex": "^2.0",
         "symfony/twig-bridge": "^3.3",
         "twig/twig": "^1.34"
